@@ -4,6 +4,10 @@
 forked from sloscotty/Metal-Buffer
 
 removed heat set nuts and replaced with hex bolts and reduced number
+
 changed the bool on the filament and PTFE cut out to be greater depth and with
+
 adjusted the bearing slope to be more printable with out overhang
+
 adjusted bottom cover plate to be more printable with stepped overhang hole
+
