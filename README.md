@@ -3,6 +3,8 @@
 
 forked from sloscotty/Metal-Buffer
 
+printable on 0.6mm 0.3LH
+
 removed heat set nuts and replaced with hex bolts and reduced number
 
 changed the bool on the filament and PTFE cut out to be greater depth and with
